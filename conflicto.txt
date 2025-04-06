@@ -1,2 +1,6 @@
 desde la rama main
+<<<<<<< HEAD
 nueva línea desde la rama master
+=======
+desde la rama nueva
+>>>>>>> rama1
