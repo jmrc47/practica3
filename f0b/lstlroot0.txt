@@ -1,0 +1,49 @@
+total 88156
+-rw-r--r--   1 root root      219 may 24  2024 all-clusters.dat
+-rw-r--r--   1 root root    52157 may 24  2024 all-files.dat
+-rw-r--r--   1 root root   255109 may 24  2024 all-installer.dat
+-rw-r--r--   1 root root  1398387 may 24  2024 all-layers.dat
+-rw-r--r--   1 root root        0 may 24  2024 all-local-layers.dat
+-rw-r--r--   1 root root  2952064 may 24  2024 all-manifests.dat
+-rw-r--r--   1 root root   774115 may 24  2024 all-modules.dat
+-rw-r--r--   1 root root 29308080 may 24  2024 all-resources.dat
+lrwxrwxrwx   1 root root        7 ago 15  2022 bin -> usr/bin
+drwxr-xr-x   2 root root     4096 abr  8  2024 bin.usr-is-merged
+drwxr-xr-x   4 root root     4096 abr  1 21:55 boot
+drwxr-xr-x   3 root root     4096 ago 13  2024 catalogcache
+drwxrwxr-x   2 root root     4096 abr 22  2017 cdrom
+-rw-------   1 root root 57561088 jun 27  2017 core
+drwxr-xr-x  21 root root     6160 abr  6 11:09 dev
+drwxr-xr-x 183 root root    12288 abr  6 08:00 etc
+drwxr-xr-x   2 root root     4096 ago 13  2024 gradle
+drwxr-xr-x   4 root root     4096 jun 23  2022 home
+lrwxrwxrwx   1 root root       34 may 24  2020 initrd.img -> boot/initrd.img-4.15.0-101-generic
+lrwxrwxrwx   1 root root       33 may 24  2020 initrd.img.old -> boot/initrd.img-4.15.0-99-generic
+drwxr-xr-x   2 root root     4096 ago 13  2024 lastModified
+lrwxrwxrwx   1 root root        7 ago 15  2022 lib -> usr/lib
+lrwxrwxrwx   1 root root        9 ago 15  2022 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root        9 ago 15  2022 lib64 -> usr/lib64
+drwxr-xr-x   2 root root     4096 abr  8  2024 lib.usr-is-merged
+lrwxrwxrwx   1 root root       10 ago 15  2022 libx32 -> usr/libx32
+-rw-r--r--   1 root root    56481 may 24  2024 localeVariants
+drwx------   2 root root    16384 abr 22  2017 lost+found
+drwxr-xr-x   4 root root     4096 sep 15  2024 media
+drwxr-xr-x   4 root root     4096 feb  2 20:37 mnt
+drwxr-xr-x   5 root root     4096 ago 13  2024 netigso
+-rw-r--r--   1 root root   140422 may 24  2024 netigso-bundles
+drwxr-xr-x   4 root root     4096 jul  9  2024 opt
+-rw-r--r--   1 root root     2747 may 24  2024 package-attrs.dat
+dr-xr-xr-x 367 root root        0 abr  6 11:09 proc
+drwx------  21 root root     4096 abr  6 08:33 root
+drwxr-xr-x  44 root root     1180 abr  6 11:10 run
+lrwxrwxrwx   1 root root        8 ago 15  2022 sbin -> usr/sbin
+drwxr-xr-x   2 root root     4096 abr  8  2024 sbin.usr-is-merged
+drwxr-xr-x  42 root root     4096 mar 25 18:13 snap
+drwxr-xr-x   2 root root     4096 feb 15  2017 srv
+dr-xr-xr-x  13 root root        0 abr  6 11:09 sys
+drwxr-xr-x   9 root root     4096 dic  8  2022 timeshift
+drwxrwxrwt  19 root root    12288 abr  6 11:40 tmp
+drwxr-xr-x  16 root root     4096 ago 20  2022 usr
+drwxr-xr-x  14 root root     4096 sep 15  2024 var
+lrwxrwxrwx   1 root root       31 may 24  2020 vmlinuz -> boot/vmlinuz-4.15.0-101-generic
+lrwxrwxrwx   1 root root       30 may 24  2020 vmlinuz.old -> boot/vmlinuz-4.15.0-99-generic
